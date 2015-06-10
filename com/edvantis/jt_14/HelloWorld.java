@@ -91,7 +91,8 @@ public class HelloWorld {
 		for(int i=0; i<6; i++) System.out.println(daysOfWeekCount[i]+ " tines in "+ DayOfWeek.of(i+1));
 
 ////////////////////////////////////////////////////////////////////////////
-// 
+ 
+		
 
 	}
 
